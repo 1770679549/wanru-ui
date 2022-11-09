@@ -1,7 +1,7 @@
 <template>
   <div>组件示例</div>
   <div>{{ count }}</div>
-  <nd-button @click="handleClick">按钮</nd-button>
+  <w-verifyCode></w-verifyCode>
 </template>
  
 <script lang="ts">
